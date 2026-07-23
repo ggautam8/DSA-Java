@@ -5,6 +5,7 @@ import java.util.List;
 public class Four_Sum {
     public static void main(String[] args){
 
+
         // sort the array first, then only two pointer can be used
         int[] arr = { 4, 3, 3, 4, 4, 2, 1, 2, 1, 1};
         Arrays.sort(arr);  // uses dual pivot quick sort which has O(n log n) TC and O(log n) SC
