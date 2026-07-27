@@ -12,7 +12,8 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/Medium" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/Easy" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetcodeContests/Contest510" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/SortingAlgos_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SortingAlgos-I" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SortingAlgos-II" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
