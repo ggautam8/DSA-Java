@@ -16,7 +16,7 @@ class Solution510{
 
         for(int i = 0; i < startTime.length(); i++){
             if(i == ':'){
-
+                System.out.println("Example1");
             }
         }
 
