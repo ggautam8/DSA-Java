@@ -1,3 +1,5 @@
+package HashMap;
+
 import java.util.Scanner;
 
 public class ArrayHashing {
