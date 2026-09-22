@@ -39,7 +39,7 @@ public class DeletionOfNthNodeFromEndBF {
 
         int[] arr = { 23, 12, 45, 67, 98, 7, 10};
         Node head = c2l.convert2LL(arr);
-        head = sol.deleteNth(head, 0);
+        head = sol.deleteNth(head, 1);
 
         while(head != null){
             System.out.print(head.data + " ");
