@@ -1,5 +1,4 @@
-package Stack;
-import java.util.*;
+package StacksAndQueues;
 
 class Solution1{
 
