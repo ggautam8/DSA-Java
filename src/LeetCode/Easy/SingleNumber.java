@@ -2,14 +2,14 @@ public class SingleNumber {
     public static void main(String[] args){
         int[] nums = {6, 1, 2, 1, 2};
 
-        Solution5 sol = new Solution5();
+        Solution136 sol = new Solution136();
         int res = sol.singleNumber(nums);
 
         System.out.print("Single occurring element : " + res);
     }
 }
 
-class Solution5{
+class Solution136{
     public int singleNumber(int[] nums){
 
         int xor = 0;
